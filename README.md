@@ -1,6 +1,8 @@
 Docker from scrash
 ===
 
+Ref: [GOTO 2018 • Containers From Scratch • Liz Rice](https://www.youtube.com/watch?v=8fi7uSYlOdc&list=PL5qwDrGb9lUpT10QLdaEZXMM9b_abBc3T&index=2)
+
 ## Build ubuntu fs
 
 ```
